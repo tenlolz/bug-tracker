@@ -42,7 +42,7 @@ still avenues that are worth exploring.
   some content on archived versions of ElitistJerks.
 
 * WoW BlueTracker (http://blue.cardplace.com/search.html) contains a wealth of
-  older blue posts that can often by useful for finding evidence of various
+  older blue posts that can often be useful for finding evidence of various
   minor changes and mechanic hotfixes.
 
 * Wikis can be a good source of information if all else fails. Try looking
